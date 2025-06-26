@@ -1,4 +1,4 @@
-# 🌙 Arduino 光控夜燈系統 (Night Light with Light Sensor)
+# 🌙 Arduino 光控夜燈系統
 
 本專案為一個基於 Arduino 的光控夜燈系統，能根據環境光線強度自動開關 LED 燈，並透過 I2C LCD 顯示光照數值與狀態（白天/夜晚）。
 
